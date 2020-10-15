@@ -1,0 +1,22 @@
+Subject: subject example subject example subject example
+Message-Id: <11E3CD37-19B5-1AB7-A0A2-146372998C05@foo.bar>
+Date: Sat, 10 Oct 2020 11:53:54 +0200
+To: joplin-123@foo.bar
+X-Rspamd-Bar: -
+X-Rspamd-Report: MV_CASE(0.5) MIME_GOOD(-0.1) UNPARSEABLE_RELAY(0.001) BAYES_HAM(-1.319426) R_SPF_ALLOW(-0.2)
+X-Rspamd-Score: -1.118426
+
+example body example body example body example body example body example body example body 
+example body example body example body example body example body example body example body 
+example body example body example body example body example body example body example body 
+example body example body example body example body example body example body example body
+
+example body example body example body example body example body example body example body
+example body example body example body example body example body example body example body
+example body example body example body example body example body example body example body
+example body example body example body example body example body example body example body
+
+example body example body example body example body example body example body example body
+example body example body example body example body example body example body example body
+example body example body example body example body example body example body example body
+example body example body example body example body example body example body example body
