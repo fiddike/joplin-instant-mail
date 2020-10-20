@@ -1,5 +1,8 @@
 # joplin-instant-mail
-Instantly convert email into a note or todo item in Joplin
+Instantly convert email into a note or todo item in Joplin.
+
+Joplin instant mail was originally announced here:
+https://discourse.joplinapp.org/t/joplin-instant-mail-instantly-converts-email-into-a-note-or-todo-item-in-joplin/11721
 
 ## Prerequisites
 * install and setup an email system / MTA (this example uses qmail)
